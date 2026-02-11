@@ -1,2 +1,0 @@
-# Cpp-calculator
-Simple calculator
